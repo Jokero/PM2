@@ -162,7 +162,7 @@
 
     "pm2-axon"            : "2.0.7",
     "pm2-axon-rpc"        : "0.3.6",
-    "pm2-deploy"          : "latest",
+    "pm2-deploy"          : "git://github.com:Jokero/pm2-deploy.git",
     "pm2-multimeter"      : "0.1.2",
     "pm2-rpc-fallback"    : "3.0.9",
 
